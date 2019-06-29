@@ -1,5 +1,7 @@
 # 简易移动端弹窗 #
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zh-rocco/popup.svg)](https://greenkeeper.io/)
+
 ---
 ## 一、功能
 - [x] confirm弹窗
